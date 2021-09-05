@@ -1,0 +1,28 @@
+{
+  "projects": {
+    "admin": {
+      "name": "admin",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular",
+      "root": "admin"
+    },
+    "worker": {
+      "name": "worker",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular",
+      "root": "worker"
+    },
+    "client": {
+      "name": "client",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular",
+      "root": "client"
+    }
+  }
+}
